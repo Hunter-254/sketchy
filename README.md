@@ -2,7 +2,7 @@
 
 <h1 align="center">Sketchy Bot By GInger<br></h1>
 <p align="center">
-<img src="https://telegra.ph/file/97ad903ba5a233f75a751.jpg" width="540" height="280" />
+<img src="https://telegra.ph/file/97ad903ba5a233f75a751.jpg" width="800" height="800" />
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ## `Clone Repo & Installation dependencies`
 ```bash
 git clone https://github.com/GingerBreadSketchy/sketchy.git
-cd CheemsBot-MD8
+cd sketchy
 
 npm start
 ```
@@ -54,7 +54,7 @@ pkg install ffmpeg -y
 pkg install wget
 pkg install imagemagick -y
 git clone https://github.com/GingerBreadSketchy/sketchy
-cd CheemsBot-MD8
+cd sketchy
 yarn install
 npm start
 ```
@@ -67,7 +67,7 @@ apt apt install libwebp
 apt apt install imagrmagick
 apt install bash
 git clone https://github.com/GingerBreadSketchy/sketchy
-cd CheemsBot-MD8
+cd sketchy
 npm start
 ```
 ## `For 24/7 Activation (Termux)`
