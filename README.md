@@ -1,6 +1,7 @@
 
 
 <h1 align="center">Sketchy Bot By GInger<br></h1>
+
 <p align="center">
 <img src="https://telegra.ph/file/97ad903ba5a233f75a751.jpg" width="800" height="800" />
 </p>
@@ -74,3 +75,4 @@ npm start
 ```bash
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
+<h10>Script Base By Dgxeon</h10>
